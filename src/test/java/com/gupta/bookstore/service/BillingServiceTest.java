@@ -1,4 +1,4 @@
-package com.crni99.bookstore.service;
+package com.gupta.bookstore.service;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.mock;
@@ -17,12 +17,12 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 
-import com.crni99.bookstore.model.Book;
-import com.crni99.bookstore.model.Customer;
-import com.crni99.bookstore.model.CustomerBooks;
-import com.crni99.bookstore.model.Order;
-import com.crni99.bookstore.repository.BillingRepository;
-import com.crni99.bookstore.repository.OrderRepository;
+import com.gupta.bookstore.model.Book;
+import com.gupta.bookstore.model.Customer;
+import com.gupta.bookstore.model.CustomerBooks;
+import com.gupta.bookstore.model.Order;
+import com.gupta.bookstore.repository.BillingRepository;
+import com.gupta.bookstore.repository.OrderRepository;
 
 class BillingServiceTest {
 

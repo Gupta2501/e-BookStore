@@ -1,4 +1,4 @@
-package com.crni99.bookstore;
+package com.gupta.bookstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

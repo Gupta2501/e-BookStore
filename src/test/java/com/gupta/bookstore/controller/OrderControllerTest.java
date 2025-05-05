@@ -1,4 +1,4 @@
-package com.crni99.bookstore.controller;
+package com.gupta.bookstore.controller;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.mock;
@@ -14,10 +14,10 @@ import org.junit.jupiter.api.Test;
 import org.springframework.ui.Model;
 import org.springframework.validation.support.BindingAwareModelMap;
 
-import com.crni99.bookstore.model.Book;
-import com.crni99.bookstore.model.Customer;
-import com.crni99.bookstore.model.CustomerBooks;
-import com.crni99.bookstore.service.BillingService;
+import com.gupta.bookstore.model.Book;
+import com.gupta.bookstore.model.Customer;
+import com.gupta.bookstore.model.CustomerBooks;
+import com.gupta.bookstore.service.BillingService;
 
 class OrderControllerTest {
 

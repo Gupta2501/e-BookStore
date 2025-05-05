@@ -1,4 +1,4 @@
-package com.crni99.bookstore.controller;
+package com.gupta.bookstore.controller;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.mock;
@@ -15,9 +15,9 @@ import org.junit.jupiter.api.Test;
 import org.springframework.ui.Model;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.crni99.bookstore.model.Book;
-import com.crni99.bookstore.service.BookService;
-import com.crni99.bookstore.service.ShoppingCartService;
+import com.gupta.bookstore.model.Book;
+import com.gupta.bookstore.service.BookService;
+import com.gupta.bookstore.service.ShoppingCartService;
 
 class CartControllerTest {
 

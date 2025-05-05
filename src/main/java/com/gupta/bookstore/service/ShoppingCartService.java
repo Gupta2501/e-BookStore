@@ -1,4 +1,4 @@
-package com.crni99.bookstore.service;
+package com.gupta.bookstore.service;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import javax.servlet.http.HttpSession;
 
-import com.crni99.bookstore.model.Book;
+import com.gupta.bookstore.model.Book;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

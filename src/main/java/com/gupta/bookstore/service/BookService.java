@@ -1,4 +1,4 @@
-package com.crni99.bookstore.service;
+package com.gupta.bookstore.service;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,8 +11,8 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-import com.crni99.bookstore.model.Book;
-import com.crni99.bookstore.repository.BookRepository;
+import com.gupta.bookstore.model.Book;
+import com.gupta.bookstore.repository.BookRepository;
 
 @Service
 public class BookService {

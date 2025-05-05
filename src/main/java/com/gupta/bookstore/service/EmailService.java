@@ -1,4 +1,4 @@
-package com.crni99.bookstore.service;
+package com.gupta.bookstore.service;
 
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;

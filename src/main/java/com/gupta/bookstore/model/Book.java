@@ -1,4 +1,4 @@
-package com.crni99.bookstore.model;
+package com.gupta.bookstore.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

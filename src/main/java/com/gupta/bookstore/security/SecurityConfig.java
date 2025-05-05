@@ -1,4 +1,4 @@
-package com.crni99.bookstore.security;
+package com.gupta.bookstore.security;
 
 import javax.sql.DataSource;
 

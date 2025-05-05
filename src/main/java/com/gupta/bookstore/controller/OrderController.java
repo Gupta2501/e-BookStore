@@ -1,4 +1,4 @@
-package com.crni99.bookstore.controller;
+package com.gupta.bookstore.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.crni99.bookstore.model.Book;
-import com.crni99.bookstore.model.Customer;
-import com.crni99.bookstore.model.CustomerBooks;
-import com.crni99.bookstore.service.BillingService;
+import com.gupta.bookstore.model.Book;
+import com.gupta.bookstore.model.Customer;
+import com.gupta.bookstore.model.CustomerBooks;
+import com.gupta.bookstore.service.BillingService;
 
 @Controller
 @RequestMapping("/orders")

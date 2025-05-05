@@ -1,4 +1,4 @@
-package com.crni99.bookstore.controller;
+package com.gupta.bookstore.controller;
 
 import org.springframework.security.authentication.AnonymousAuthenticationToken;
 import org.springframework.security.core.Authentication;

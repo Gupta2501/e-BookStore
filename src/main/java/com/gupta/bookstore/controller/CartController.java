@@ -1,4 +1,4 @@
-package com.crni99.bookstore.controller;
+package com.gupta.bookstore.controller;
 
 import java.util.List;
 
@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.crni99.bookstore.model.Book;
-import com.crni99.bookstore.service.BookService;
-import com.crni99.bookstore.service.ShoppingCartService;
+import com.gupta.bookstore.model.Book;
+import com.gupta.bookstore.service.BookService;
+import com.gupta.bookstore.service.ShoppingCartService;
 
 @Controller
 @RequestMapping("/cart")
