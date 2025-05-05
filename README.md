@@ -23,7 +23,7 @@ This is a Spring Boot-based backend service for managing a bookstore. It support
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bookstore-backend.git
+git clone https://github.com/Gupta25/bookstore-backend.git
 cd bookstore-backend
 ```
 
@@ -52,7 +52,7 @@ docker run -p 8080:8080 bookstore-backend
 src/
 ├── main/
 │   ├── java/
-│   │   └── com/yourname/bookstore/
+│   │   └── com/gupta/bookstore/
 │   └── resources/
 │       ├── application.properties
 │       └── static/ & templates/ (if any)
